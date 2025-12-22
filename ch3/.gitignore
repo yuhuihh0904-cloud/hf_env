@@ -1,0 +1,16 @@
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+
+# 🔥 核心：忽略训练输出的文件夹 (你的文件夹名叫 test-trainer)
+test-trainer/
+checkpoint-*/
+runs/
+
+# 忽略模型文件后缀
+*.safetensors
+*.bin
+*.pt
+
+# VS Code 配置
+.vscode/
