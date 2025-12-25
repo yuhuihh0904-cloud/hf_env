@@ -11,6 +11,8 @@ runs/
 *.safetensors
 *.bin
 *.pt
-
+*.tsv
+*.jsonl
+*.zip
 # VS Code 配置
 .vscode/
