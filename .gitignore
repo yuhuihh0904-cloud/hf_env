@@ -16,3 +16,6 @@ runs/
 *.zip
 # VS Code 配置
 .vscode/
+*.json
+*.md
+*.txt
